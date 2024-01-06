@@ -19,5 +19,5 @@ class ModelConfigs(BaseModelConfigs):
 
         self.batch_size = 8
         self.learning_rate = 0.0005
-        self.train_epochs = 70
+        self.train_epochs = 65
         self.train_workers = 20
